@@ -11,5 +11,11 @@ pids
 logs
 results
 
+#ignore IDE
+.idea
+
+#ignore rawdata
+/public/rawdata/
+
 npm-debug.log
 node_modules
